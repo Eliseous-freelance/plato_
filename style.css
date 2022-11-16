@@ -1,7 +1,9 @@
 #link_to_questionnaires{
-  margin: auto;
   text-align: center;
   width: 50vw;
+}
+.center {
+  text-align: center;
 }
 button-solid{
   padding: 5px 10px;
