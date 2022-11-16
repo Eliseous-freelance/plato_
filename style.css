@@ -1,5 +1,8 @@
 #link_to_questionnaires{
-  padding 10px; 
+  margin: auto;
+  width: 50vw;
+  height: 10vh;
+  padding: 10px;
 }
 button-solid{
   padding: 5px 10px;
