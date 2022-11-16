@@ -1,3 +1,6 @@
+#wrap{
+  padding: auto;  
+}
 #link_to_questionnaires{
   text-align: center;
   width: 50vw;
